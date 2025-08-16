@@ -20,36 +20,36 @@ Tech Enthusiast | Driven by Innovation & Impact
 ---
 
 ## 🎯 Tech Stack
-**Programming:** C, C++, Java, Python, JavaScript  
-**Cloud & DevOps:** AWS (EC2, S3, RDS, Lambda), Kubernetes, Jenkins, Docker, Boto3  
-**Networking:** CCNA, Linux Networking, Server-Client Architecture  
-**CI/CD & Automation:** Jenkins, GitHub Actions, Postman, REST APIs  
-**System Design & OS:** Linux, Virtualization, Operating Systems  
-**Databases:** MySQL, PostgreSQL  
-**Other Skills:** Git, GitHub, Problem-Solving, System Optimization  
+- **Programming:** C, C++, Java, Python, JavaScript  
+- **Cloud & DevOps:** AWS (EC2, S3, RDS, Lambda), Kubernetes, Jenkins, Docker, Boto3  
+- **Networking:** CCNA, Linux Networking, Server-Client Architecture  
+- **CI/CD & Automation:** Jenkins, GitHub Actions, Postman, REST APIs  
+- **System Design & OS:** Linux, Virtualization, Operating Systems  
+- **Databases:** MySQL, PostgreSQL  
+- **Other Skills:** Git, GitHub, Problem-Solving, System Optimization  
 
 ---
 
 ## 🎓 Certifications
-- AWS Academy Graduate - AWS Academy Microservices and CI/CD Pipeline Builder  
-- AWS Certified Developer - Associate  
-- AWS Development & Cloud Computing – TECHNICAL HUB  
-- CCNA (Cisco Certified Network Associate) – Cisco Networking Academy  
-- Java Programming Certification – IT Specialist  
-- Postman API Fundamentals Student Expert – Postman  
-- NDG Linux Unhatched – Cisco Networking Academy  
-- NPTEL Online Certification (Elite) – Introduction to Internet of Things  
-- RedHat Academy – Program Learner  
-- Cisco Essentials 1 & 2 JavaScript Certification – Cisco  
+-📜  AWS Academy Graduate - AWS Academy Microservices and CI/CD Pipeline Builder  
+-📜  AWS Certified Developer - Associate  
+-📜  AWS Development & Cloud Computing – TECHNICAL HUB  
+-📜  CCNA (Cisco Certified Network Associate) – Cisco Networking Academy  
+-📜  Java Programming Certification – IT Specialist  
+-📜  Postman API Fundamentals Student Expert – Postman  
+-📜  NDG Linux Unhatched – Cisco Networking Academy  
+-📜  NPTEL Online Certification (Elite) – Introduction to Internet of Things  
+-📜  RedHat Academy – Program Learner  
+-📜  Cisco Essentials 1 & 2 JavaScript Certification – Cisco  
 
 ---
 
 ## 💻 Notable Projects
-- **Kubernetes & Jenkins CI/CD Pipeline** – Automated software deployments using Jenkins and Kubernetes.  
-- **AWS Automation using Boto3** – Automated AWS resource provisioning and scaling.  
-- **Network Monitoring Tool** – Built a Linux-based tool to analyze and optimize network traffic.  
-- **IoT-Based Smart System** – Designed a prototype using IoT and cloud integration.  
-- **Competitive Programming Repository** – A collection of optimized DSA solutions.  
+- 🔧 **Kubernetes & Jenkins CI/CD Pipeline** – Automated software deployments using Jenkins and Kubernetes.  
+- 🤖 **AWS Automation using Boto3** – Automated AWS resource provisioning and scaling.  
+- 📡 **Network Monitoring Tool** – Built a Linux-based tool to analyze and optimize network traffic.  
+- 🌐 **IoT-Based Smart System** – Designed a prototype using IoT and cloud integration.  
+- 🧩 **Competitive Programming Repository** – A collection of optimized DSA solutions.  
 
 ---
 
