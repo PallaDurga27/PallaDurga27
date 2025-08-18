@@ -63,7 +63,8 @@ Tech Enthusiast | Driven by Innovation & Impact
 
 ## 💬 Let's Connect!
 📧 Email: sdbpallabhavani@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/durgapalla/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/durgapalla/) 
+🔗 [Leetcode](https://leetcode.com/u/PallaDurga_27/) 
 
 ---
 
