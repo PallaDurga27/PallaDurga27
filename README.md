@@ -81,6 +81,28 @@ Tech Enthusiast | Driven by Innovation & Impact
 [![AtCoder](https://img.shields.io/badge/AtCoder-E60012?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/PallaDurga27)
 
 
+
+
+
+## 💬 Let's Connect!
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PallaDurga27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgapalla/)
+
+---
+
+## 💻 Competitive Programming Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/PallaDurga_27/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sdbpallatvc0/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/palla_durga)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/PallaDurga)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sdbpallabhavani)
+[![AtCoder](https://img.shields.io/badge/AtCoder-E60012?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/PallaDurga27)
+
+
+
+
 ---
 
 🚀 "Code. Build. Automate. Innovate." | Aspiring to make a global impact through technology! 🌍
