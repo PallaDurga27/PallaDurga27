@@ -67,6 +67,8 @@ Tech Enthusiast | Driven by Innovation & Impact
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdbpallabhavani@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PallaDurga27)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgapalla/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1_weFiUVmkX_WmboLT00vkUQdt2FTccR6/view)
+
 
 
 
